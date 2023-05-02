@@ -1,2 +1,2 @@
-# erfitzsimmons
-geog3540/erfitzsimmons - Lizzy Fitzsimmons
+# Geovisualization Portfolio
+This includes assignments and information for my final project! :)
